@@ -1,0 +1,18 @@
+
+.main-warpper{
+    margin-top: 20px;
+}
+.page-title{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.regestration{
+    padding: 10px;
+    width: 60vw;
+    margin: auto;
+    
+}
+
+/* .valid-feedback, .invalid-feedback{
+    display: block;
+} */
